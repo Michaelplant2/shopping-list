@@ -20,7 +20,7 @@ def show_list():
 
 show_help()
 while True:
-    new_item = input("> ")
+    new_item = input(">  ")
 
     if new_item == "DONE":
         break
