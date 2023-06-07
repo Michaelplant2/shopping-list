@@ -32,3 +32,5 @@ while True:
         continue
 
     add_to_list(new_item)
+
+show_list()
