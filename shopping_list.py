@@ -10,7 +10,7 @@ def show_help():
 
 def add_to_list(item):
     shopping_list.append(item)
-    print("You have {} items in your list".format(len(shopping_list)))
+    print("You have {} item(s) in your list".format(len(shopping_list)))
 
 def show_list():
     print("Your list: ")
