@@ -1,6 +1,5 @@
 shopping_list = []
 
-
 def show_help():
     print("What should we get at the store")
     print("""
